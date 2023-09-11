@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main{
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Rubik', sans-serif;
+font-family: 'Rubik Iso', cursive;
+}
